@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav Andhiwal</h1>
 <h3 align="center">A passionate Coder, Mobile Photographer & Editor from India</h3>
-<img align="right" alt="Coding" height="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dvw2yyxdioig0slpijhaz9szyjjv1jt9gf1k91xj&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dvw2yyxdioig0slpijhaz9szyjjv1jt9gf1k91xj&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <a href="https://twitter.com/anubhav__02" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav__02?logo=twitter&style=for-the-badge" alt="anubhav__02" /></a> </p>
